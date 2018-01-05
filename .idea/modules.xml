@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QueryApi/QueryApi.iml" filepath="$PROJECT_DIR$/QueryApi/QueryApi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QueryApiProject.iml" filepath="$PROJECT_DIR$/QueryApiProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueryApi/QueryApi-QueryApi.iml" filepath="$PROJECT_DIR$/QueryApi/QueryApi-QueryApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueryApiProject-QueryApi.iml" filepath="$PROJECT_DIR$/QueryApiProject-QueryApi.iml" />
     </modules>
   </component>
 </project>
